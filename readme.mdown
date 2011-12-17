@@ -6,7 +6,7 @@ A color theme for XCode that I decided was good enough to release. It is based o
 [wimer]:	http://monokai.nl/ "Wimer Hazenberg's personal website"
 
 ![screenshots](http://files.droplr.com/files_production/acc_1190/j2hF?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1324162294&Signature=ukKHUsZY6%2BBOu8TfpB3U%2BQmBFXc%3D&response-content-disposition=inline%3B+filename%3DScreen+Shot+2011-12-17+at+5.22.57+PM.png) 
-![screenshots](http://cl.ly/Chvf/Screen%20Shot%202011-12-17%20at%205.23.04%20PM.png) 
+![screenshots](http://files.droplr.com/files_production/acc_1190/ACN5?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1324162331&Signature=1dZN7O%2B56bSzCw738Q7Q92UrGtY%3D&response-content-disposition=inline%3B+filename%3DScreen+Shot+2011-12-17+at+5.23.04+PM.png) 
 
 Installation
 ------------
