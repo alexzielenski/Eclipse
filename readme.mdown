@@ -5,12 +5,8 @@ A color theme for XCode that I decided was good enough to release. It is based o
 [monokai]:	http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/	 "The Monokai theme for Textmate"
 [wimer]:	http://monokai.nl/ "Wimer Hazenberg's personal website"
 
-![Eclipse](http://cl.ly/CgCH/Screen%20Shot%202011-12-17%20at%205.22.57%20PM.png) 
-![Eclipse_2](http://cl.ly/Chvf/Screen%20Shot%202011-12-17%20at%205.23.04%20PM.png) 
-
-![screenshots](http://k.minus.com/ib1kHc4lnLB8bd.gif) 
-![screenshots](http://k.minus.com/iovTFVTQQ192K.gif) 
-![screenshots](http://k.minus.com/i4BrO2tfCJxzk.gif)
+![screenshots](http://cl.ly/CgCH/Screen%20Shot%202011-12-17%20at%205.22.57%20PM.png) 
+![screenshots](http://cl.ly/Chvf/Screen%20Shot%202011-12-17%20at%205.23.04%20PM.png) 
 
 Installation
 ------------
