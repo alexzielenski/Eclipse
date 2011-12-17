@@ -1,0 +1,16 @@
+Eclipse
+=======
+A color theme for XCode that I decided was good enough to release. It is based off of [Monokai][] by [Wimer Hazenberg][wimer].
+
+[monokai]:	http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/	 "The Monokai theme for Textmate"
+[wimer]:	http://monokai.nl/ "Wimer Hazenberg's personal website"
+
+![Eclipse Preview](http://cl.ly/CgCH/Screen%20Shot%202011-12-17%20at%205.22.57%20PM.png "Eclipse in use")
+![Eclipse Preview 2](http://cl.ly/Chvf/Screen%20Shot%202011-12-17%20at%205.23.04%20PM.png "Eclipse in prefs")
+
+Installation
+------------
+1. Download the theme and move it into the folder ~/Library/Developer/Xcode/UserData/FontsAndColorThemes. If this folder does not exist, create it.
+2. Relaunch Xcode
+3. Open prefs and select the theme
+4. PROFIT$$$
